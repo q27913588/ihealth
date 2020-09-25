@@ -1,0 +1,71 @@
+{
+    "//": "AI快測遊戲問答與結果",
+    "data": [
+        {
+            "category": "飲食",
+            "subCategory": "早餐",
+            "question": "早餐是生活美學的開場白，\n你怎麼吃？",
+            "answers": [
+                { "score": 5, "content": "最愛早餐了，不吃早餐一天的精神體力都很差。" },
+                { "score": 0, "content": "早餐當然要吃還要搭配咖啡或奶茶，香濃甜又好。" },
+                { "score": -5, "content": "趕上班打卡，早餐不定時也不一定會吃QAQ" }
+            ],
+            "imgUrl": "./assets/image/image-43@3x.png"
+        },
+        {
+            "category": "飲食",
+            "subCategory": "午餐",
+            "question": "中午充電休息囉，\n午餐吃什麼？",
+            "answers": [
+                { "score": 5, "content": "家鄉味醍醐味，自備營養便當讓整個下午保持活力充沛。" },
+                { "score": 0, "content": "只吃生菜沙拉或水果就好了。" },
+                { "score": -5, "content": "忙到沒法準時放飯，就當作吃下午茶吧。" }
+            ],
+            "imgUrl": "./assets/image/image-43@3x.png"
+        },
+        {
+            "category": "飲食",
+            "subCategory": "晚餐",
+            "question": "晚餐！培養感情、拓展關係的好時機。\n您會如何享受健康的晚餐呢？",
+            "answers": [
+                { "score": 5, "content": "跟好友或家人享受寧靜放鬆的聚餐，七八分飽即可。" },
+                { "score": 0, "content": "隨便吃就好，有時沒餓意我也不想吃晚餐。" },
+                { "score": -5, "content": "火烤兩吃配啤酒，吃到飽吃到撐要吃回本啊。" }
+            ],
+            "imgUrl": "./assets/image/image-43@3x.png"
+        },
+        {
+            "category": "飲食",
+            "subCategory": "消夜",
+            "question": "晚上11點，嘴饞的我，\n該不該吃宵夜呢？",
+            "answers": [
+                { "score": 5, "content": "自律是我的代名詞，宵夜是絕緣體。" },
+                { "score": 0, "content": "不吃宵夜睡不著啦吼。" },
+                { "score": -5, "content": "鹹酥雞、滷味重油重鹹是宵夜的王道。" }
+            ],
+            "imgUrl": "./assets/image/image-43@3x.png"
+        },
+        {
+            "category": "飲食",
+            "subCategory": "日常飲食",
+            "question": "懂得享受才是人生，\n什麼食物讓你最開心？",
+            "answers": [
+                { "score": 5, "content": "有機食材和新鮮蔬果、健康養生又美容" },
+                { "score": 0, "content": "偶爾趕時間，速食店炸雞又快又方便。" },
+                { "score": -5, "content": "快炒配啤酒再加上酒肉朋友是我的最愛。" }
+            ],
+            "imgUrl": "./assets/image/image-43@3x.png"
+        },
+        {
+            "category": "飲食",
+            "subCategory": "飲酒",
+            "question": "英雄國籍不要選酒國，哩甘災？",
+            "answers": [
+                { "score": 5, "content": "超討厭酒味的，我~滴酒不沾！" },
+                { "score": 0, "content": "偶爾聚會喝喝酒盡興" },
+                { "score": -5, "content": "應酬生活超習慣，根本生活必需品" }
+            ],
+            "imgUrl": "./assets/image/image-43@3x.png"
+        }
+    ]
+}
